@@ -1,4 +1,4 @@
-# daddamultiplier
+# dadda_multiplier
  
 Dadda multiplier of  16*16 is designed using Verilog. 
  Brent-Kung adder is used for final addition.
